@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "576238957009",
+    "firebase_url": "https://fishapp-d979c.firebaseio.com",
+    "project_id": "fishapp-d979c",
+    "storage_bucket": "fishapp-d979c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576238957009:android:dad966fbad6d4bcf3d70f0",
+        "android_client_info": {
+          "package_name": "com.example.fishapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576238957009-4h9fnlq3rgt30ocrcfjdeqe19tsai37q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDneiX8ZMo8-5QKwZoDeTnUmH8bDyQIWxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576238957009-4h9fnlq3rgt30ocrcfjdeqe19tsai37q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
